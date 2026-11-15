@@ -1,0 +1,22 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#070b16"/>
+      <stop offset="1" stop-color="#101d3b"/>
+    </linearGradient>
+    <linearGradient id="blue">
+      <stop stop-color="#00c8ff"/>
+      <stop offset="1" stop-color="#247bff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="280" rx="20" fill="url(#bg)"/>
+  <rect x="3" y="3" width="894" height="274" rx="18" fill="none" stroke="#247bff" stroke-width="2"/>
+  <circle cx="780" cy="50" r="120" fill="#247bff" opacity=".10"/>
+  <text x="55" y="65" fill="#00c8ff" font-size="19" font-family="Arial" letter-spacing="5">WELCOME TO MY PROFILE</text>
+  <text x="55" y="145" fill="white" font-size=" sixty" font-family="Arial" font-weight="bold">SWAPNADEEP</text>
+  <text x="58" y="190" fill="#cbd5e1" font-size="23" font-family="Arial">BCA Student | C Programmer</text>
+  <text x="58" y="225" fill="#00c8ff" font-size="20" font-family="Arial">AI &amp; Machine Learning Enthusiast</text>
+  <text x="790" y="155" fill="#00c8ff" font-size="65" text-anchor="middle" font-family="Arial">&lt;/&gt;</text>
+  <path d="M55 245 H845" stroke="#247bff" opacity=".7"/>
+</svg>
