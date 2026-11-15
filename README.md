@@ -26,7 +26,7 @@
 
 ### 🪪 Live Developer ID Card
 <p align="center">
-  <img src="./assets/id-card.svg?v=2" alt="Swapnadeep Animated ID Card" width="100%" />
+  <img src="./assets/id-card.svg?v=3" alt="Swapnadeep Animated ID Card" width="100%" />
 </p>
 
 ---
