@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hey, I'm Swapnadeep (Bappya)
 
-<!--
-**bappyavai/bappyavai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BCA Student | C Programmer | AI & ML Enthusiast
 
-Here are some ideas to get you started:
+Code • Learn • Innovate 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔵 About Me
+
+- 🎓 BCA Student
+- 💻 Learning C Programming
+- 🤖 Interested in Artificial Intelligence
+- 🧠 Exploring Machine Learning
+- 🚀 Passionate about technology and coding
+
+🛠️ Skills & Technologies
+
+- C Programming
+- Artificial Intelligence
+- Machine Learning
+
+🎯 Current Goals
+
+- Improve my programming skills
+- Learn Python
+- Explore AI & ML
+- Build interesting projects
+
+🌐 Connect With Me
+
+GitHub: https://github.com/bappyvavai
+
+---
+
+⭐ Thanks for visiting my profile!
