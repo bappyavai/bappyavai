@@ -50,7 +50,7 @@
 
 <p align="center">
 
-  <img src="./assets/id-dashboard.svg?v=1" alt="Swapnadeep Animated ID Card" width="100%" />
+  <img src="./assets/id-card.svg" alt="Swapnadeep Animated ID Card" width="100%" />
 
 </p>
 
