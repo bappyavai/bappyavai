@@ -1,30 +1,42 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#070b16"/>
-      <stop offset="100%" stop-color="#101d3b"/>
-    </linearGradient>
-    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00c8ff"/>
-      <stop offset="100%" stop-color="#247bff"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1">
+  <stop stop-color="#070b16"/>
+  <stop offset="1" stop-color="#14264b"/>
+ </linearGradient>
+ <linearGradient id="blue">
+  <stop stop-color="#00d4ff"/>
+  <stop offset="1" stop-color="#247bff"/>
+ </linearGradient>
+ <filter id="glow">
+  <feGaussianBlur stdDeviation="5" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+ </filter>
+</defs>
 
-  <rect width="900" height="280" rx="20" fill="url(#bg)"/>
-  <rect x="3" y="3" width="894" height="274" rx="18" fill="none" stroke="#247bff" stroke-width="2"/>
+<rect width="900" height="440" rx="25" fill="url(#bg)"/>
+<rect x="4" y="4" width="892" height="432" rx="22" fill="none" stroke="#247bff" stroke-width="3"/>
 
-  <circle cx="780" cy="50" r="120" fill="#247bff" opacity=".10"/>
+<text x="450" y="55" fill="#00d4ff" font-size="22" text-anchor="middle" font-family="Arial" letter-spacing="5">DEVELOPER ID CARD</text>
 
-  <text x="55" y="65" fill="#00c8ff" font-size="19" font-family="Arial" letter-spacing="5">WELCOME TO MY PROFILE</text>
+<rect x="45" y="85" width="810" height="300" rx="20" fill="#101a30" stroke="#247bff" stroke-width="2"/>
 
-  <text x="55" y="145" fill="white" font-size="58" font-family="Arial" font-weight="bold">SWAPNADEEP</text>
+<circle cx="190" cy="215" r="92" fill="#14264b" stroke="#00d4ff" stroke-width="4" filter="url(#glow)"/>
 
-  <text x="58" y="190" fill="#cbd5e1" font-size="23" font-family="Arial">BCA Student | C Programmer</text>
+<text x="190" y="235" fill="#00d4ff" font-size="55" text-anchor="middle" font-family="Arial" font-weight="bold">S</text>
 
-  <text x="58" y="225" fill="#00c8ff" font-size="20" font-family="Arial">AI &amp; Machine Learning Enthusiast</text>
+<text x="330" y="145" fill="#00d4ff" font-size="16" font-family="Arial" letter-spacing="3">HELLO, I'M</text>
 
-  <text x="790" y="155" fill="url(#blue)" font-size="65" text-anchor="middle" font-family="Arial">&lt;/&gt;</text>
+<text x="330" y="195" fill="white" font-size="42" font-family="Arial" font-weight="bold">SWAPNADEEP</text>
 
-  <path d="M55 245 H845" stroke="#247bff" opacity=".7"/>
+<text x="330" y="235" fill="#cbd5e1" font-size="22" font-family="Arial">BCA STUDENT</text>
+
+<text x="330" y="275" fill="#00d4ff" font-size="19" font-family="Arial">C Programmer | AI &amp; ML</text>
+
+<path d="M330 300 H790" stroke="#247bff" stroke-width="2"/>
+
+<text x="330" y="340" fill="white" font-size="17" font-family="Arial">GITHUB: @bappyavai</text>
+
+<text x="450" y="415" fill="#00d4ff" font-size="14" text-anchor="middle" font-family="Arial" letter-spacing="4">CODE • LEARN • INNOVATE</text>
 </svg>
