@@ -15,7 +15,7 @@
 
 > *"Code • Learn • Innovate — Let's grow together!"*
 
-- 👋 Hi! I'm **Swapnadeep**, also known as **Deep vai**.
+- 👋 Hi! I'm **Swapnadeep**, also known as **Bappya**.
 - 🎓 I'm a **BCA Student** from **India**, passionate about **Coding**, **AI**, and **Machine Learning**.
 - 💻 Currently sharpening my skills in **C Programming**, **Python**, and **Web Development**.
 - 🚀 I love to explore new technologies and build something meaningful.
@@ -26,7 +26,7 @@
 
 ### 🪪 Live Developer ID Card
 <p align="center">
-  <img src="./assets/id-card.svg?v=4" alt="Swapnadeep Animated ID Card" width="100%" />
+  <img src="./id-card.svg" alt="Swapnadeep Animated ID Card" width="100%" />
 </p>
 
 ---
@@ -60,19 +60,30 @@
 
 ---
 
-### 🔗 Connect With Me
-<p align="center">
-  <img src="./right_pointing.png.png" width="220" alt="Connect with Swapnadeep" />
-</p>
+<h3>🔗 Connect With Me</h3>
 
-<p align="center">
-<a href="https://github.com/bappyavai" target="_blank"><img src="https://img.shields.io/badge/GitHub-070B16?style=for-the-badge&logo=github&logoColor=00D8FF" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-070B16?style=for-the-badge&logo=linkedin&logoColor=00D8FF" alt="LinkedIn" /></a>
-<a href="https://youtube.com/@YOUR_YOUTUBE" target="_blank"><img src="https://img.shields.io/badge/YouTube-070B16?style=for-the-badge&logo=youtube&logoColor=FF354F" alt="YouTube" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-070B16?style=for-the-badge&logo=instagram&logoColor=FF354F" alt="Instagram" /></a>
-<a href="https://topmate.io/YOUR_TOPMATE" target="_blank"><img src="https://img.shields.io/badge/TopMate-070B16?style=for-the-badge&logo=buy-me-a-coffee&logoColor=00D8FF" alt="TopMate" /></a>
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="./right_pointing.png.png" width="300" alt="Profile Picture" />
+      </td>
+      <td align="left" valign="middle">
+        <a href="https://github.com/bappyavai" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="60" alt="GitHub" />
+        </a>
+        <br><br>
+        <a href="https://facebook.com/Bappya Vai" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="60" alt="Facebook" />
+        </a>
+        <br><br>
+        <a href="https://instagram.com/deep_official_123" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="60" alt="Instagram" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B16,50:247BFF,100:00D8FF&height=90&section=footer" width="100%" />
 </p>
