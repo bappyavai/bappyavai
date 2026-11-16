@@ -5,7 +5,7 @@
 
 <!-- 2. ELECTRIC BLUE ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=720&lines=GROW+WITH+DEEP+%7C+Swapnadeep;BCA+Student+%7C+C+Programmer+%7C+AI+%26+ML+Enthusiast;Code+%E2%80%A2+Learn+%E2%80%A2+Innovate;Dream+Big...+Code+Better..." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=720&lines=GROW+WITH+%7C+Swapnadeep;BCA+Student+%7C+Python+Programmer+%7C+AI+%26+ML+Enthusiast;Code+%E2%80%A2+Learn+%E2%80%A2+Innovate;Dream+Big...+Code+Better..." alt="Typing Animation" />
 </p>
 
 ---
