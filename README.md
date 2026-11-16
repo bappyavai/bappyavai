@@ -10,17 +10,60 @@
 
 ---
 
-### 🧑‍💻 About Me
-<img align="right" src="./id.png.png" width="230" alt="Swapnadeep Portrait" />
+<h2 align="center">✨ ABOUT ME ✨</h2>
 
-> *"Code • Learn • Innovate — Let's grow together!"*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Innovate;Aspiring+Software+Developer;Exploring+AI+%26+ML"/>
+</p>
 
-- 👋 Hi! I'm **Swapnadeep**, also known as **Bappya**.
-- 🎓 I'm a **BCA Student** from **India**, passionate about **Coding**, **AI**, and **Machine Learning**.
-- 💻 Currently sharpening my skills in **C Programming**, **Python**, and **Web Development**.
-- 🚀 I love to explore new technologies and build something meaningful.
+<table>
+<tr>
+<td width="65%">
 
-<br clear="right"/>
+<h3>🚀 Who Am I?</h3>
+
+👋 Hi! I'm <b>Swapnadeep (Bappya)</b>.
+
+🎓 BCA Student from India.
+
+💻 Interested in C Programming & Python.
+
+🤖 Exploring Artificial Intelligence & Machine Learning.
+
+🌐 Learning Web Development.
+
+🚀 Love creating innovative projects.
+
+🤝 Open to Collaboration.
+
+<h3>🎯 My Mission</h3>
+
+To learn, build and create something meaningful!
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="./right_pointing.png.png"
+width="240"
+alt="Swapnadeep Profile Photo"/>
+
+<h3>💜 Swapnadeep</h3>
+<p><b>Dream Big • Code Better</b></p>
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h3 align="center">⚡ MY MINDSET</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CODE-00D8FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARN-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INNOVATE-FF1493?style=for-the-badge"/>
+</p>
 
 ---
 
