@@ -31,24 +31,44 @@
 
 ---
 
-### ⚙️ Skills & Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,vscode,git,github&theme=dark" alt="Tech Stack" />
-</p>
+<h2 align="center">⚡ Skills & Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%20Programming-070B16?style=for-the-badge&logo=c&logoColor=00D8FF" />
-  <img src="https://img.shields.io/badge/Python-070B16?style=for-the-badge&logo=python&logoColor=00D8FF" />
-  <img src="https://img.shields.io/badge/HTML5-070B16?style=for-the-badge&logo=html5&logoColor=00D8FF" />
-  <img src="https://img.shields.io/badge/CSS3-070B16?style=for-the-badge&logo=css3&logoColor=00D8FF" />
-  <img src="https://img.shields.io/badge/AI-070B16?style=for-the-badge&logo=openai&logoColor=00D8FF" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-070B16?style=for-the-badge&logo=tensorflow&logoColor=00D8FF" />
-  <img src="https://img.shields.io/badge/Data%20Science-070B16?style=for-the-badge&logo=pandas&logoColor=00D8FF" />
-  <img src="https://img.shields.io/badge/Web%20Development-070B16?style=for-the-badge&logo=google-chrome&logoColor=00D8FF" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-070B16?style=for-the-badge&logo=leetcode&logoColor=00D8FF" />
+  <i>Technologies I'm learning and working with</i>
 </p>
 
----
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python" />
+</p>
+
+<h3 align="center">🌐 Web Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<h3 align="center">🤖 AI & Machine Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Learning-purple?style=for-the-badge" />
+</p>
+
+<h3 align="center">🛠️ Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+<h3 align="center">📚 Currently Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C_Programming-0A66C2?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Learning-orange?style=for-the-badge" />
+</p>
 
 ### 🚀 Featured Projects
 
