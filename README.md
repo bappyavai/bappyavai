@@ -44,7 +44,7 @@ To learn, build and create something meaningful!
 
 <td width="35%" align="center">
 
-<img src="./right_pointing.png.png"
+<img src="./id.png.png"
 width="240"
 alt="Swapnadeep Profile Photo"/>
 
