@@ -113,7 +113,7 @@ alt="Swapnadeep Profile Photo"/>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Learning-orange?style=for-the-badge" />
 </p>
 
-### 🚀 Featured Projects
+<h3 align="center">🚀 Featured Projects</h3>
 
 | Project | Domain | Description |
 | :--- | :--- | :--- |
@@ -123,7 +123,7 @@ alt="Swapnadeep Profile Photo"/>
 
 ---
 
-<h3>🔗 Connect With Me</h3>
+<h3 align="center">🔗 Connect With Me h3>
 
 <div align="center">
   <table>
