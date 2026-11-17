@@ -67,7 +67,7 @@ alt="Swapnadeep Profile Photo"/>
 
 ---
 
-### 🪪 Live Developer ID Card
+### 🪪 ID Card 
 <p align="center">
   <img src="./id-card.svg" alt="Swapnadeep Animated ID Card" width="100%" />
 </p>
